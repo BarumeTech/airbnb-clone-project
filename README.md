@@ -11,7 +11,7 @@ Project Goals
 - Review System: Enable user ratings and feedback
 - Performance Optimization: Indexing and caching for fast, efficient data access
   
-Tech Stack
+Technology Stack
 - Django + Django REST Framework – RESTful API development
 - GraphQL – Flexible data querying
 - PostgreSQL – Relational database
